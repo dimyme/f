@@ -1,3 +1,0 @@
-#git init
-git remote add origin https://github.com/dimyme/f.git
-git push -u origin master
