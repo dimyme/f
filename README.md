@@ -1,1 +1,1 @@
-valac g.gs
+valac main.gs
